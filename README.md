@@ -88,7 +88,7 @@
 * 完成编辑之后，提交编辑内容的 PR (**注：大家最好以一个文件为基本单位来提交编辑 PR，方便我们进行 review，否则可能会因为 comments 导致展示 PR 的网页变得过于冗长，不方便 review 修改的内容**)。待 PR 被合并之后，请关闭 issue；
 * 最后，将 [README.md](https://github.com/YinMengHao/network-topic/blob/master/README.md) 中的编辑状态修改为“已完成”(**注：8 位 commit id**)，同时不要忘记把自己添加到 [CONTRIBUTORS.md](https://github.com/YinMengHao/network-topic/blob/master/CONTRIBUTORS.md) 中。
 
-编辑前建议看 [EDIT_NOTES.md](https://github.com/YinMengHao/network-topic/blob/master/TRANSLATION_NOTES.md) 。关于编辑约定，大家有任何问题或建议也请开 issue 讨论。
+编辑前建议看 [EDIT_NOTES.md](https://github.com/YinMengHao/network-topic/blob/master/EDIT_NOTES_NOTES.md) 。关于编辑约定，大家有任何问题或建议也请开 issue 讨论。
 
 ## 编辑申请回收原则
 
